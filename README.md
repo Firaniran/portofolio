@@ -17,7 +17,7 @@ Modern portfolio website built with:
 - **Deployment**: GitHub Pages
 
 ## 🖥️ Live Demo
-👉 [View Live Site](https://portofolio-alpha-brown.vercel.app/)
+👉 [View Live Site](https://firaniran.github.io/portofolio/)
 
 ## 📦 Installation
 1. Clone repository:
